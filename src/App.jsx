@@ -1,15 +1,11 @@
-import { motion } from "framer-motion"
-import Navbar from "./components/Navbar";
-import Sobre from "./components/Sobre";
-import Habilidades from "./components/Habilidades";
+import Home from "./pages/Home";
+
 
 function App() {
 
   return (
     <>
-      <Navbar/>
-      <Sobre/>
-      <Habilidades/>
+      <Home />
     </>
   );
 }
