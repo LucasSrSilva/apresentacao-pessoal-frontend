@@ -35,7 +35,7 @@ function Sobre() {
             </div>
             <div id='descricao' className='md:w-1/2 text-center'>
                 <h2 className='text-3xl'>um desenvolvedor front-end apaixonado por tecnologia.</h2>
-                <p className='text-gray-600'>sempre me desenvolvendo para se tonrar uma pessoa melhor.</p>
+                <p className='text-gray-600'>sempre em desenvolvimento para me tornar uma pessoa melhor.</p>
             </div>
         </section>
     )
