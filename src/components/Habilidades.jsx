@@ -35,7 +35,7 @@ function Habilidades() {
   }, [])
 
   return (
-    <section className='flex flex-col justify-center min-h-[50vh] items-start bg-gradient-to-b from-gray-500 to-white px-20 w-full'>
+    <section id='habilidades' className='flex flex-col justify-center min-h-[50vh] items-start bg-gradient-to-b from-gray-500 to-white px-20 w-full'>
       <div className='my-20 w-full md:w-1/2 text-center'>
         <h2 className='title text-5xl capitalize w-full md:px-20'>habilidades</h2>
       </div>

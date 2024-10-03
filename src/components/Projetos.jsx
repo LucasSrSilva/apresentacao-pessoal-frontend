@@ -17,7 +17,7 @@ function Projetos() {
             })
     }, [])
     return (
-        <section className='flex flex-col justify-center items-start bg-gradient-to-b  from-white to-gray-500 min-h-[50vh] px-20 py-10 w-full'>
+        <section id='projetos' className='flex flex-col justify-center items-start bg-gradient-to-b  from-white to-gray-500 min-h-[50vh] px-20 py-10 w-full'>
             <div className='my-20 w-full md:w-1/2 text-center'>
                 <h2 className='projetos text-5xl capitalize w-full md:px-20'>Projetos</h2>
             </div>

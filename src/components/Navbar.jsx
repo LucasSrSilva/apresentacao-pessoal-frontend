@@ -10,7 +10,7 @@ function Navbar() {
                 <div className='flex gap-10 items-center capitalize hover:*:underline'>
                     <a href="#sobre">sobre</a>
                     <a href="#habilidades">habilidades</a>
-                    <a href="projetos">projetos</a>
+                    <a href="#projetos">projetos</a>
                 </div>
                 <div className='hidden lg:block hover:*:underline'>
                     <a href="https://docs.google.com/document/d/1ykBUpY21TxsfUtDIOc3UFS0oL_LoXlm5/edit?usp=sharing&ouid=117318316428028160532&rtpof=true&sd=true" target='_blank'>CV</a>
